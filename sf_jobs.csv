@@ -1174,12 +1174,12 @@ ComplyAdvantage,Verkada,Joe Berniklau,joeberniklau
 Concord,W. L. Gore & Associates,Vandana Kuncham,vandanakuncham
 Condensation AI,B GARAGE,Rach Pradhan,rachpradhan
 Conduktor,Mezmo,Will Ryan,will-ryan-9w
-Confidential,BOND ORTHO PARTNERS,Michael D Montoya,michaeldmontoya
+CONFIDENTIAL,BOND ORTHO PARTNERS,Michael D Montoya,michaeldmontoya
 Confidential,Cybersecurity Company,Nicole H.,the-bays-own-nicole-hilliard
 Confidential,Walmart Global Tech,Praveen C.,praveen-chhabra
 Confidential,Wells Fargo,Seshu Ganugapati,seshu-ganugapati-5696574
-Confidential,Lawreen Asuncion Consulting,Lawreen A.,lawreen
-Confidential,The Trade Desk,Sean Brown,sbrown88
+Confidential - Pharma and Biotech,Lawreen Asuncion Consulting,Lawreen A.,lawreen
+Confidential Project,The Trade Desk,Sean Brown,sbrown88
 Confluent,Amazon Web Services (AWS),Dheeraj Nuthalapati,dheeraj-nuthalapati
 Confluent,Athena Decision Systems,Jerome Boyer,jeromeboyer
 Confluent,Kensu,Adi Polak,polak-adi
@@ -2297,7 +2297,7 @@ Internal Revenue Service,"Gelfand, Rennert & Feldman, LLC","Connie Shin, CPA",co
 Internal Revenue Service,Sutter Health,Derrick C.,derrickcapili
 "International Consulting Group, Inc.",TTEC,Rita Chuang,ritachuang
 International LEAP Network,EKConsulting,"Eve Kedar, EdD",evekedar
-"Internetworking Specialists, Inc. (INSI)","Internetworking Specialists, Inc. (INSI)","Vivek Ahuja , CISSP, CCIE ",vikahuja510
+"Internetworking Specialists, Inc. (INSI)","Internetworking Specialists, Inc. (INSI)","Vivek Ahuja , CISSP, CCIE",vikahuja510
 Intero Real Estate Services,Compass,Christina Reyes,christina-reyes-4bab95193
 InterruptibleIO,"Gable-Ell Design, Build, Investments",Joey Prather,joeyprather
 InterVision Systems,Sauce Labs,Leonard Acosta,leonard-acosta-45298496
@@ -3007,6 +3007,9 @@ Murata,Intel Corporation,Myung Ju Song,myung-ju-song-6591aa146
 MycoWorks,Comtech Telecommunications Corp.,Wanjiru Gatheru,wanjiru-gatheru
 MyHealthTeam,Japan Living Arts,Casey Daliyo,casey-daliyo
 Mytra,Waymo,Michael Kessler,mike-kessler-2017
+N/A,Cisco,Ashish Mehta,ashishgmehta
+N/A,InsideScoop,Alexander (Sasha) Sherstnev,alexander-sasha-sherstnev-1546511a6
+n/a,,Robert Altomare,robert-altomare-661773171
 NAI NorCal,Instawork,"Nick Colletti, MBA",nicholas-s-colletti
 NAMI CC,Contra Costa Health,Cameron Tucker,cameron-tucker-a20368164
 Napa Valley Wine Train,Gloria Ferrer Caves & Vineyards,Christopher Brumbaugh,cbrumbaugh
@@ -4326,7 +4329,7 @@ Stealth,Apple,Kartik Goyal,kartik-goyal-b47946123
 Stealth,Arrow Electronics,Suman Jha,sumankjha
 Stealth,Blue Shield of California,Ashley Wong,ashleyywong
 Stealth,Capital One,Shrey Gupta,shreyguptaoc
-Stealth,ChargePoint,"Malkiat S. Nijjar   ( ""Raj"" ) ",malkiat-s-nijjar-raj-10469b8
+Stealth,ChargePoint,"Malkiat S. Nijjar   ( ""Raj"" )",malkiat-s-nijjar-raj-10469b8
 Stealth,Chegg Inc.,Taranveer Singh,taranveer
 Stealth,Colombia Tech Week,Sebastian Gomez,sebastian-gomez-alexander-
 Stealth,Contact CI,Christine Suh,chwsuh
@@ -4823,7 +4826,7 @@ University of California Office of the President,Alpha Recon,Oyindamola Iwalehin
 "University of California, Berkeley","University of California, Berkeley",Lasana Hotep,lasanahotep
 "University of California, Berkeley - School of Law",The 1947 Partition Archive,"Lesya Westerman, MLIS",lesya-w
 "University of California, Berkeley, Haas School of Business",Acumen,Clemency Brookfield,clemency-brookfield-979400168
-"University of California, Berkeley, Haas School of Business",Cañada College,"David Vera, Ed.D. ",david-vera-ed-d-31b751184
+"University of California, Berkeley, Haas School of Business",Cañada College,"David Vera, Ed.D.",david-vera-ed-d-31b751184
 "University of California, Berkeley, Haas School of Business",City and County of San Francisco,Jorge G Rodriguez,jorgegrodriguez
 "University of California, Berkeley, Haas School of Business",Iris Maven,Bonnie Wang,bonniewangca
 "University of California, Berkeley, Haas School of Business",UC Berkeley's Abbey Master of Real Estate Development + Design,Dan Whelan,danwhelan1
